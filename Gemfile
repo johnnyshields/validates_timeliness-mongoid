@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'mongoid', '>= 3.0'
-gem 'bson_ext'
+gem 'mongoid', '>= 7.2'
+# gem 'bson_ext'
